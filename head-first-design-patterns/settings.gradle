@@ -1,0 +1,6 @@
+rootProject.name = 'head-first-design-patterns'
+include 'chapter-one-introduction'
+include 'chapter-two-pattern-observer'
+include 'chapter-three-pattern-decorator'
+include 'chapter-four-pattern-factory'
+
